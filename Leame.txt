@@ -1,0 +1,32 @@
+CD-ROM Simulador de Microscopio Óptico - SimOptic 2008 ®
+
+Autores: Ing. Reinier García Ramos.
+                 MSc. Rolando Hernández Lazo.
+                 Tec. Mayelín Espino Gavilanes.
+                 Lic. Gregorio Ramos Ortega.
+
+Copyright © 2008 CenSoft - CECAM - IMSS
+
+Todos los derechos reservados. Obra protegida por la legislación vigente 
+de Derecho de Autor en la República de Cuba. Registro: 
+
+---------------------------------------------------------------------------
+Requerimientos Técnicos:
+
+Para que el sistema funcione adecuadamente y puedan ser visualizados correctamente todos los contenidos, e imágenes del mismo, es imprescindible que sea establecida una definición del monitor o display del usuario en 1024 x 768 píxeles. Esto no es necesario hacerlo manualmente, puesto que justo al inicio de ejecutarse la aplicación, el propio sistema verifica cuál es el modo de pantalla en que se está trabajando, y luego de esto la cambia hacia 1024 X 768 píxeles. Al cerrar la aplicación, el propio sistema establece de nuevo el antiguo modo de pantalla.
+
+Por otra parte, para ser correctamente visualizado el software, debe tener instalado en la máquina el Tema (Theme) "Clásico de Windows", o uno similar. Junto con el CD de instalación se suministra un Tema que permite que el sistema SimOptic 2008 sea visualizado correctamente.
+
+Este Software Educativo no es una obra extensa, lo cual la  hace una aplicación que se ejecuta sin problemas en la mayoría de  las arquitecturas actuales. 
+
+---------------------------------------------------------------------------
+
+Otros Requisitos:
+
+Lector de CD.
+128Mb de memoria RAM.
+Monitor VGA o SVGA que permita una resolución de 1024 x 768 píxeles. 
+Espacio en disco 124.0 Mb.
+Sistema Operativo Windows 9x, ME, NT, XP o Vista.  
+
+---------------------------------------------------------------------------
