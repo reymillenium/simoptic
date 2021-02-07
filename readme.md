@@ -51,11 +51,12 @@ Besides, in order to be properly visualized the software interface, you must hav
 
 ## Authors: 
 
+- Ing. Reinier Garcia Ramos.
 - MSc. Rolando Hernández Lazo.
 - Tech. Mayelín Espino Gavilanes.
-- Lice. Gregorio Ramos Ortega.
 
-All rights reserved. Work protected by the valid Author Rights Legislation in the Republic of Cuba. Register:
+All rights reserved. Work protected by the valid Author Rights Legislation in the Republic of Cuba. 
+
 Copyright © 2008 CenSoft - CECAM - IMSS
 
 ***
